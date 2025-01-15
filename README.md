@@ -27,5 +27,5 @@ Sorularınız varsa, bana aşağıdaki kanallardan ulaşabilirsiniz:
 
 [![Linkedin Badge](https://img.shields.io/badge/Murat%20Dinç-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muratdincc)  
 [![Github Badge](https://img.shields.io/badge/muratdincc-100000?style=flat&logo=github&logoColor=white)](https://github.com/muratdincc/)  
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/muratdincc)  
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@muratdincc)  
 [![Website Badge](https://img.shields.io/badge/Website-muratdinc.dev-4CAF50?style=flat&logo=internetexplorer&logoColor=white)](https://muratdinc.dev)
