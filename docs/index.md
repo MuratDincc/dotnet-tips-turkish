@@ -10,12 +10,13 @@ Bu proje, sürekli güncellenmekte ve geliştirilmektedir. İlerleyen günlerde 
 
 Bu rehber aşağıdaki başlıkları içermektedir:
 
-- **C#**: C# dilinin incelikleri ve pratik kod önerileri.
-- **.NET**: Framework özellikleri, performans ipuçları ve yaygın senaryolar.
-- **Entity Framework**: Veri erişimi ve performans optimizasyonlarına dair püf noktaları.
-- **Garbage Collector**: Bellek yönetimi ve yeni GC özellikleri.
-- **Async/Await**: Asenkron programlamada en iyi uygulamalar.
-- **LINQ**: Performanslı LINQ kullanımı ve yaygın hatalar.
+- **C#**: C# dilinin incelikleri ve pratik kod önerileri
+- **.NET**: Framework özellikleri, performans ipuçları ve yaygın senaryolar
+- **Entity Framework**: Veri erişimi ve performans optimizasyonlarına dair püf noktaları
+- **Dapper**: Performans odaklı veri erişimi ve optimize sorgular için pratik çözümler
+- **Garbage Collector**: Bellek yönetimi ve yeni GC özellikleri
+- **Async/Await**: Asenkron programlamada en iyi uygulamalar
+- **LINQ**: Performanslı LINQ kullanımı ve yaygın hatalar
 
 Her başlık altında, öğrenimi kolaylaştırmak için kısa açıklamalar ve örnek kod parçaları bulabilirsiniz.
 

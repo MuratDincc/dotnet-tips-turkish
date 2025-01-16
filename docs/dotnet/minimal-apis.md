@@ -47,7 +47,7 @@ app.MapGet("/products", async () =>
 });
 ```
 
-✅ **İdeal Kullanım:** Bağımlılık enjeksiyonunu kullanarak kodu test edilebilir hale getirin.
+✅ **İdeal Kullanım:** Bağımlılık injection kullanarak kodu test edilebilir hale getirin.
 
 ```csharp
 app.MapGet("/products", async (IProductService productService) =>

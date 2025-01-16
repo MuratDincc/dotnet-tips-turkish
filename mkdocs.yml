@@ -103,6 +103,16 @@ nav:
       - Value Conversions: entity-framework/value-conversions.md
       - Temporal Tables: entity-framework/temporal-tables.md
       - Keyless Entities: entity-framework/keyless-entities.md
+  - Dapper:
+      - Basic CRUD İşlemleri: dapper/basic-crud-operations.md
+      - Query Parameters: dapper/query-parameters.md
+      - Stored Procedure: dapper/stored-procedures.md
+      - Multiple Mapping: dapper/multiple-mapping.md
+      - Transaction Yönetimi: dapper/transaction-management.md
+      - QueryMultiple: dapper/query-multiple.md
+      - Async/Await ile Asenkron Sorgular: dapper/async-queries.md
+      - N+1 Problemi: dapper/n-plus-1-problem.md
+      - Bulk İşlemler ve Performans: dapper/bulk-operations.md
   - LINQ:
       - Select, Where ve Aggregate: linq/select-where-aggregate.md
       - Performans Optimizasyonu: linq/performance.md
