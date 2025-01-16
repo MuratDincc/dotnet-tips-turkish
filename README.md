@@ -7,6 +7,7 @@
 - **C#**: C# dilinin incelikleri ve pratik kod önerileri.
 - **.NET**: Framework özellikleri, performans ipuçları ve yaygın senaryolar.
 - **Entity Framework**: Veri erişimi ve performans optimizasyonlarına dair püf noktaları.
+- **Dapper**: Performans odaklı veri erişimi ve optimize sorgular için pratik çözümler
 - **Garbage Collector**: Bellek yönetimi ve yeni GC özellikleri.
 - **Async/Await**: Asenkron programlamada en iyi uygulamalar.
 - **LINQ**: Performanslı LINQ kullanımı ve yaygın hatalar.

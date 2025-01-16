@@ -1,6 +1,6 @@
 # Null Handling
 
-C# dilinde `null` değerlerin yanlış yönetimi, runtime hatalarına ve beklenmeyen davranışlara yol açabilir. Bu rehber, null handling ile ilgili yaygın hataları ve en iyi uygulamaları içerir.
+C# dilinde `null` değerlerin yanlış yönetimi, runtime hatalarına ve beklenmeyen davranışlara yol açabilir.
 
 ---
 

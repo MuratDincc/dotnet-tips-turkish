@@ -1,6 +1,6 @@
 # Performans Optimizasyonu
 
-Performans optimizasyonu, özellikle büyük ölçekli uygulamalarda kaynak tüketimini azaltmak ve kullanıcı deneyimini iyileştirmek için hayati öneme sahiptir. Yanlış uygulamalar sistemi yavaşlatabilir, hatta çökmesine neden olabilir. Bu rehber, Entity Framework Core'da performansı artırmaya yönelik en iyi uygulamaları ve yaygın hataları ele alır.
+Performans optimizasyonu, özellikle büyük ölçekli uygulamalarda kaynak tüketimini azaltmak ve kullanıcı deneyimini iyileştirmek için hayati öneme sahiptir. Yanlış uygulamalar sistemi yavaşlatabilir, hatta çökmesine neden olabilir.
 
 ---
 
