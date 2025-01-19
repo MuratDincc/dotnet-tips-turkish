@@ -33,7 +33,7 @@ Projeyi faydalı buluyorsanız, lütfen GitHub’da ⭐ vererek destek olmayı u
 
 Sorularınız veya önerileriniz varsa, bana ulaşabilirsiniz:
 
-[![Linkedin Badge](https://img.shields.io/badge/Murat%20Dinç-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muratdincc/)  
+[![Portfolio](https://img.shields.io/badge/Murat%20Dinç-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linktr.ee/muratdincc)  
 [![Github Badge](https://img.shields.io/badge/muratdincc-100000?style=flat&logo=github&logoColor=white)](https://github.com/muratdincc/)  
 [![Website Badge](https://img.shields.io/badge/Website-muratdinc.dev-4CAF50?style=flat&logo=internetexplorer&logoColor=white)](https://muratdinc.dev/)  
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@muratdincc)
