@@ -17,6 +17,7 @@ Bu rehber aşağıdaki başlıkları içermektedir:
 - **Garbage Collector**: Bellek yönetimi ve yeni GC özellikleri
 - **Async/Await**: Asenkron programlamada en iyi uygulamalar
 - **LINQ**: Performanslı LINQ kullanımı ve yaygın hatalar
+- **Resiliency ve Hata Yönetimi**: Dağıtık sistemlerde hata toleransı ve sistem dayanıklılığını artıran pratikler.
 
 Her başlık altında, öğrenimi kolaylaştırmak için kısa açıklamalar ve örnek kod parçaları bulabilirsiniz.
 

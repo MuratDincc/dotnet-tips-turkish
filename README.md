@@ -11,6 +11,7 @@
 - **Garbage Collector**: Bellek yönetimi ve yeni GC özellikleri.
 - **Async/Await**: Asenkron programlamada en iyi uygulamalar.
 - **LINQ**: Performanslı LINQ kullanımı ve yaygın hatalar.
+- **Resiliency ve Hata Yönetimi**: Dağıtık sistemlerde hata toleransı ve sistem dayanıklılığını artıran pratikler.
 
 Projeye göz atmak için buraya tıklayın: [Dotnet Tavsiyeleri](https://muratdincc.github.io/dotnet-tips-turkish/).
 
@@ -26,7 +27,7 @@ Bu projeyi beğendiyseniz, lütfen ⭐ vererek destek olmayı unutmayın!
 
 Sorularınız varsa, bana aşağıdaki kanallardan ulaşabilirsiniz:
 
-[![Linkedin Badge](https://img.shields.io/badge/Murat%20Dinç-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muratdincc)  
+[![Portfolio](https://img.shields.io/badge/Murat%20Dinç-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linktr.ee/muratdincc)  
 [![Github Badge](https://img.shields.io/badge/muratdincc-100000?style=flat&logo=github&logoColor=white)](https://github.com/muratdincc/)  
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@muratdincc)  
 [![Website Badge](https://img.shields.io/badge/Website-muratdinc.dev-4CAF50?style=flat&logo=internetexplorer&logoColor=white)](https://muratdinc.dev)
