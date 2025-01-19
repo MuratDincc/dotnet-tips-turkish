@@ -122,6 +122,17 @@ nav:
       - Çalışma Mekanizması: garbage-collector/working-mechanism.md
       - Yeni Özellikler (.NET 9): garbage-collector/new-features-v9.md
       - Bellek Sızıntısı Tespiti: garbage-collector/memory-leak-detection.md
+  - Resiliency ve Hata Yönetimi:
+      - Polly ile Retry ve Circuit Breaker: resiliency/polly-retry-circuit-breaker.md
+      - Circuit Breaker State Management: resiliency/circuit-breaker-state-management.md
+      - Timeout Yönetimi: resiliency/timeout-management.md
+      - Bulkhead Isolation: resiliency/bulkhead-isolation.md
+      - Fallback Stratejileri: resiliency/fallback-strategies.md
+      - Transient Fault Handling: resiliency/transient-fault-handling.md
+      - Chaos Engineering: resiliency/chaos-engineering.md
+      - Graceful Degradation: resiliency/graceful-degradation.md
+      - API Gateway ile Resiliency: resiliency/api-gateway-resiliency.md
+      - Idempotency Key ve Veri Tutarlılığı: resiliency/idempotency-key-data-consistency.md
 
 extra:
   generator: false
@@ -130,6 +141,8 @@ extra:
       link: https://www.linkedin.com/in/muratdincc
     - icon: fontawesome/brands/github
       link: https://github.com/muratdincc
+    - icon: fontawesome/brands/microsoft
+      link: https://mvp.microsoft.com/en-US/MVP/profile/11591845-876c-42b5-b701-5b8b21371c7f
     - icon: fontawesome/solid/rss
       link: https://muratdinc.dev
 
