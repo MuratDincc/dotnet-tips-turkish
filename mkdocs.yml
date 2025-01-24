@@ -118,6 +118,15 @@ nav:
       - Performans Optimizasyonu: linq/performance.md
       - Extension Methods: linq/extension-methods.md
       - Async LINQ: linq/async-linq.md
+      - AsNoTracking Kullanımı: linq/asnotracking-performance.md
+      - Expression Tree ile Dinamik LINQ Sorguları: linq/expression-trees.md
+      - Take ve Skip ile Sayfalama: linq/pagination-take-skip.md
+      - OrderBy ile Performanslı Sıralama: linq/performance-orderby.md
+      - Any ve All Kullanımı: linq/any-all-usage.md
+      - Select vs SelectMany Farkları: linq/select-vs-selectmany.md
+      - First, FirstOrDefault, Single ve SingleOrDefault Farkları: linq/first-single-differences.md
+      - Queryable ve Enumerable Arasındaki Farklar: linq/queryable-enumerable-differences.md
+      - Lazy Evaluation ve Performansa Etkisi: linq/lazy-evaluation-performance.md
   - Garbage Collector:
       - Çalışma Mekanizması: garbage-collector/working-mechanism.md
       - Yeni Özellikler (.NET 9): garbage-collector/new-features-v9.md
