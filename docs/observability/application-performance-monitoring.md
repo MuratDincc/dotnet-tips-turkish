@@ -1,4 +1,4 @@
-# Uygulama Performans İzleme (Application Performance Monitoring - APM)
+# Application Performance Monitoring - APM (Uygulama Performans İzleme)
 
 Uygulama Performans İzleme (**APM - Application Performance Monitoring**), yazılım uygulamalarının performansını ve sağlık durumunu izlemek için kullanılan yöntemlerin bütünüdür. APM araçları sayesinde **gecikmeler, hatalar, yavaş sorgular ve işlem darboğazları** tespit edilebilir.
 
@@ -172,15 +172,4 @@ BenchmarkRunner.Run<PerformanceTests>();
 ✔ **Uygulamanın CPU, bellek, disk ve ağ kullanımı izlenmeli.**  
 ✔ **APM araçları ile gecikmeler ve darboğazlar analiz edilmeli.**  
 ✔ **Kritik noktalar için metrikler toplanmalı ve alarmlar ayarlanmalı.**  
-✔ **Loglar merkezi bir sistemde toplanarak hatalar anlık tespit edilmeli.**  
-
----
-
-## 7. Sonuç ve Özet
-
-- **APM araçları ile uygulama performansını gerçek zamanlı izleyebilirsiniz.**  
-- **Azure Application Insights, Prometheus, Grafana, Jaeger gibi çözümler kullanabilirsiniz.**  
-- **Performans darboğazlarını ve gecikmeleri azaltmak için metrik tabanlı analiz yapılmalıdır.**  
-- **Kod performansını ölçmek için BenchmarkDotNet gibi araçlar entegre edilmelidir.**  
-
-✅ **APM ile uygulama performansınızı artırın ve hata yönetimini kolaylaştırın!** 🚀
+✔ **Loglar merkezi bir sistemde toplanarak hatalar anlık tespit edilmeli.**

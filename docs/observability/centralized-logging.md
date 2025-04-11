@@ -1,4 +1,4 @@
-# Merkezi Loglama (Centralized Logging)
+# Centralized Logging (Merkezi Loglama)
 
 Merkezi loglama, dağıtık sistemlerde uygulama loglarının **tek bir merkezde toplanmasını**, analiz edilmesini ve aranabilir hale getirilmesini sağlayan bir yöntemdir. Mikroservis mimarilerinde, logların farklı servislerden toplanıp merkezi bir noktaya gönderilmesi **hata ayıklama, performans takibi ve güvenlik analizleri** açısından kritik öneme sahiptir.
 
@@ -166,15 +166,4 @@ groups:
 ✔ **Kullanıcı ve İstek Bağlamını Koruyun:** `Correlation ID` ile isteği takip edin.  
 ✔ **Yapılandırılmış (JSON) Log Formatı Kullanın:** Logları analiz edilebilir hale getirin.  
 ✔ **Log Saklama Süresini Tanımlayın:** **Log Retention Policy** ile gereksiz logları temizleyin.  
-✔ **Merkezi Arşivleme Kullanın:** Elasticsearch, Seq veya Grafana Loki gibi çözümlerle logları yönetin.  
-
----
-
-## 9. Sonuç ve Özet
-
-- **Merkezi loglama**, dağıtık sistemlerde hata takibini kolaylaştırır.  
-- **Serilog, ELK, OpenTelemetry gibi çözümler ile .NET uygulamalarına entegre edilebilir.**  
-- **Logları analiz edilebilir hale getirmek için JSON formatı ve yapılandırılmış log kullanımı önerilir.**  
-- **Alert mekanizmaları ile proaktif izleme ve müdahale sağlanabilir.**  
-
-✅ **Merkezi loglama ile sistem gözlemlenebilirliğini artırın ve hata yönetimini kolaylaştırın!** 🚀
+✔ **Merkezi Arşivleme Kullanın:** Elasticsearch, Seq veya Grafana Loki gibi çözümlerle logları yönetin.

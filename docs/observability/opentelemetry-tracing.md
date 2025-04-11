@@ -1,6 +1,6 @@
 # OpenTelemetry ile Dağıtık İzleme (Tracing)
 
-Dağıtık sistemlerde gözlemlenebilirlik sağlamak için **OpenTelemetry**, tracing (izleme), metrik ve loglama gibi kritik telemetri verilerini toplamak için kullanılan açık kaynaklı bir standarttır. Bu yazıda, **OpenTelemetry tracing** kullanımını ve **.NET uygulamalarında nasıl uygulanacağını** ele alacağız.
+Dağıtık sistemlerde gözlemlenebilirlik sağlamak için **OpenTelemetry**, tracing (izleme), metrik ve loglama gibi kritik telemetri verilerini toplamak için kullanılan açık kaynaklı bir standarttır.
 
 ---
 
@@ -161,14 +161,4 @@ Aşağıdaki görselde bir dağıtık sistemde **OpenTelemetry ile izlenen işle
 ✔ **Mikroservis Mimarileri** → Bir isteğin tüm servisler boyunca nasıl ilerlediğini takip etme.  
 ✔ **API Performans Analizi** → Hangi API endpoint'lerinin ne kadar sürede yanıt verdiğini ölçme.  
 ✔ **Hata Tespiti** → Yavaş veya hatalı çalışan servisleri bulma ve analiz etme.  
-✔ **Veritabanı Sorgu Takibi** → Yavaş SQL sorgularını tespit etme ve iyileştirme.  
-
----
-
-## 8. Sonuç ve Özet
-
-- **OpenTelemetry, dağıtık sistemlerde izleme için güçlü bir araçtır.**  
-- **.NET ile kolayca entegre edilebilir ve HTTP, gRPC, SQL sorgularını izleyebilir.**  
-- **Jaeger ve Zipkin gibi araçlarla logları ve izleme verilerini görselleştirebilirsiniz.**  
-
-✅ **OpenTelemetry ile sistem gözlemlenebilirliğini artırın ve hataları minimize edin!** 🚀
+✔ **Veritabanı Sorgu Takibi** → Yavaş SQL sorgularını tespit etme ve iyileştirme.

@@ -17,7 +17,8 @@ Bu rehber aşağıdaki başlıkları içermektedir:
 - **Garbage Collector**: Bellek yönetimi ve yeni GC özellikleri
 - **Async/Await**: Asenkron programlamada en iyi uygulamalar
 - **LINQ**: Performanslı LINQ kullanımı ve yaygın hatalar
-- **Resiliency ve Hata Yönetimi**: Dağıtık sistemlerde hata toleransı ve sistem dayanıklılığını artıran pratikler.
+- **Resiliency ve Hata Yönetimi**: Dağıtık sistemlerde hata toleransı ve sistem dayanıklılığını artıran pratikler
+- **MediatR ve CQRS**: Command Query Responsibility Segregation pattern'ı ve MediatR kullanımına dair ipuçları.
 
 Her başlık altında, öğrenimi kolaylaştırmak için kısa açıklamalar ve örnek kod parçaları bulabilirsiniz.
 
@@ -25,7 +26,7 @@ Her başlık altında, öğrenimi kolaylaştırmak için kısa açıklamalar ve 
 
 ## Destek Olun
 
-Projeyi faydalı buluyorsanız, lütfen GitHub’da ⭐ vererek destek olmayı unutmayın!
+Projeyi faydalı buluyorsanız, lütfen GitHub'da ⭐ vererek destek olmayı unutmayın!
 
 ---
 

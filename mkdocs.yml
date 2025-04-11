@@ -142,6 +142,35 @@ nav:
       - Graceful Degradation: resiliency/graceful-degradation.md
       - API Gateway ile Resiliency: resiliency/api-gateway-resiliency.md
       - Idempotency Key ve Veri Tutarlılığı: resiliency/idempotency-key-data-consistency.md
+  - Observability ve Telemetri Yönetimi:
+      - OpenTelemetry ile Dağıtık İzleme: observability/opentelemetry-tracing.md
+      - Centralized Logging Stratejileri: observability/centralized-logging.md
+      - Application Performance Monitoring (APM): observability/application-performance-monitoring.md
+      - Tracing ve Correlation ID Yönetimi: observability/tracing-correlation-id.md
+      - Structured Logging Kullanımı: observability/structured-logging.md
+      - Distributed Tracing ile Hata Takibi: observability/distributed-tracing.md
+      - Prometheus ile Metrik Toplama: observability/prometheus-metrics.md
+      - Jaeger ile Dağıtık Tracing: observability/jaeger-tracing.md
+      - Kibana ile Log Analizi ve Görselleştirme: observability/kibana-log-analytics.md
+      - Grafana ile Monitoring Dashboardları: observability/grafana-monitoring.md
+      - Log Retention ve Storage Stratejileri: observability/log-retention-storage.md
+      - Event-Driven Logging ve Alerting Mekanizmaları: observability/event-driven-logging.md
+      - Real-Time Telemetry ile Performans Analizi: observability/real-time-telemetry.md
+      - Cloud-Native Monitoring Stratejileri: observability/cloud-native-monitoring.md
+      - Health Checks ile Servis Durumu İzleme: observability/health-checks-monitoring.md
+      - Request Sampling ve Log Filtreleme Teknikleri: observability/request-sampling-log-filtering.md
+      - Anomaly Detection ile Otomatik Hata Tespiti: observability/anomaly-detection.md
+  - MediatR ve CQRS:
+      - Giriş: mediatr-cqrs/index.md
+      - Temel Kavramlar: mediatr-cqrs/01-basic-concepts.md
+      - Command Pattern: mediatr-cqrs/02-command-pattern.md
+      - Query Pattern: mediatr-cqrs/03-query-pattern.md
+      - Pipeline Behaviors: mediatr-cqrs/04-pipeline-behaviors.md
+      - Event Handling: mediatr-cqrs/05-event-handling.md
+      - Validation: mediatr-cqrs/06-validation.md
+      - Error Handling: mediatr-cqrs/07-error-handling.md
+      - Testing: mediatr-cqrs/08-testing.md
+      - Best Practices: mediatr-cqrs/09-best-practices.md
 
 extra:
   generator: false

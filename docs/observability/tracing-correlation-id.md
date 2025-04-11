@@ -189,15 +189,4 @@ datasources:
 ✔ **Eğer istemciden gelmiyorsa, API kendisi oluşturmalıdır.**  
 ✔ **Servisler arası çağrılarda Correlation ID taşınmalıdır.**  
 ✔ **Loglar merkezi bir sistemde (ELK, Grafana, Seq) saklanmalı ve aranabilir olmalıdır.**  
-✔ **Tracing ve monitoring araçları ile Correlation ID ilişkilendirilmelidir.**  
-
----
-
-## 6. Sonuç ve Özet
-
-- **Correlation ID, mikroservislerde isteklerin takip edilmesini sağlar.**  
-- **.NET’te middleware kullanarak Correlation ID kolayca yönetilebilir.**  
-- **Serilog, OpenTelemetry ve merkezi loglama sistemleri ile entegre edilebilir.**  
-- **Bu sayede hata ayıklama ve performans analizi kolaylaşır.**  
-
-✅ **Mikroservis sistemlerinde Correlation ID kullanarak izlenebilirliği artırın ve hata yönetimini kolaylaştırın!** 🚀
+✔ **Tracing ve monitoring araçları ile Correlation ID ilişkilendirilmelidir.**

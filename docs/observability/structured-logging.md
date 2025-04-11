@@ -180,15 +180,4 @@ docker run -d --name kibana --net elk -p 5601:5601 kibana:7.10.0
 ✔ **Loglara Correlation ID ekleyerek istekleri ilişkilendirin.**  
 ✔ **Logları merkezi bir sunucuya yönlendirin (Elasticsearch, Seq, Prometheus).**  
 ✔ **Log seviyelerini doğru kullanın (`Debug`, `Info`, `Warning`, `Error`).**  
-✔ **Performans kaybını önlemek için asenkron loglama mekanizmaları kullanın.**  
-
----
-
-## 5. Sonuç ve Özet
-
-- **Yapılandırılmış loglama, logların analiz edilmesini ve indekslenmesini kolaylaştırır.**  
-- **.NET uygulamalarında Serilog gibi kütüphaneler ile JSON formatında loglama yapılabilir.**  
-- **Elasticsearch, Kibana ve Seq gibi merkezi loglama sistemleri ile loglar kolayca analiz edilebilir.**  
-- **Correlation ID kullanılarak servisler arası çağrılar ilişkilendirilebilir.**  
-
-✅ **Yapılandırılmış loglama ile sistem gözlemlenebilirliğini artırın ve hata yönetimini kolaylaştırın!** 🚀
+✔ **Performans kaybını önlemek için asenkron loglama mekanizmaları kullanın.**
