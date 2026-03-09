@@ -171,6 +171,98 @@ nav:
       - Error Handling: mediatr-cqrs/07-error-handling.md
       - Testing: mediatr-cqrs/08-testing.md
       - Best Practices: mediatr-cqrs/09-best-practices.md
+  - Design Patterns:
+      - Singleton Pattern: design-patterns/singleton.md
+      - Factory Pattern: design-patterns/factory.md
+      - Strategy Pattern: design-patterns/strategy.md
+      - Observer Pattern: design-patterns/observer.md
+      - Decorator Pattern: design-patterns/decorator.md
+      - Repository Pattern: design-patterns/repository.md
+      - Unit of Work Pattern: design-patterns/unit-of-work.md
+      - Builder Pattern: design-patterns/builder.md
+  - SOLID Prensipleri:
+      - Single Responsibility Principle: solid/single-responsibility.md
+      - Open/Closed Principle: solid/open-closed.md
+      - Liskov Substitution Principle: solid/liskov-substitution.md
+      - Interface Segregation Principle: solid/interface-segregation.md
+      - Dependency Inversion Principle: solid/dependency-inversion.md
+  - Clean Architecture:
+      - Domain Layer: clean-architecture/domain-layer.md
+      - Application Layer: clean-architecture/application-layer.md
+      - Infrastructure Layer: clean-architecture/infrastructure-layer.md
+      - Presentation Layer: clean-architecture/presentation-layer.md
+      - Cross-Cutting Concerns: clean-architecture/cross-cutting-concerns.md
+  - Microservices:
+      - Service Communication: microservices/service-communication.md
+      - API Gateway: microservices/api-gateway.md
+      - Service Discovery: microservices/service-discovery.md
+      - Event Sourcing: microservices/event-sourcing.md
+      - Saga Pattern: microservices/saga-pattern.md
+      - Domain Decomposition: microservices/domain-decomposition.md
+  - DevOps ve Docker:
+      - Dockerfile Best Practices: devops/dockerfile-best-practices.md
+      - Docker Compose: devops/docker-compose.md
+      - CI/CD Pipeline: devops/ci-cd-pipeline.md
+      - Environment Management: devops/environment-management.md
+      - Deployment Strategies: devops/deployment-strategies.md
+      - Container Orchestration: devops/container-orchestration.md
+  - Background Jobs:
+      - Hosted Services ve BackgroundService: background-jobs/hosted-services.md
+      - Hangfire: background-jobs/hangfire.md
+      - Quartz.NET: background-jobs/quartz-net.md
+      - Channel-Based Queue: background-jobs/channel-queue.md
+      - Recurring Jobs: background-jobs/recurring-jobs.md
+  - Testing:
+      - Unit Testing: testing/unit-testing.md
+      - Mocking: testing/mocking.md
+      - Integration Testing: testing/integration-testing.md
+      - Test-Driven Development: testing/tdd.md
+      - Test Best Practices: testing/test-best-practices.md
+  - Security:
+      - JWT Authentication: security/jwt-authentication.md
+      - Authorization: security/authorization.md
+      - API Security: security/api-security.md
+      - Data Protection: security/data-protection.md
+      - Input Validation: security/input-validation.md
+  - Message Queue:
+      - RabbitMQ: message-queue/rabbitmq.md
+      - Apache Kafka: message-queue/kafka.md
+      - MassTransit: message-queue/masstransit.md
+  - Caching:
+      - Redis Cache: caching/redis.md
+      - In-Memory Cache: caching/in-memory-cache.md
+      - Cache Patterns: caching/cache-patterns.md
+  - Performance Optimization:
+      - Span ve Memory Optimizasyonu: performance/span-memory.md
+      - Benchmarking: performance/benchmarking.md
+      - Async Performance: performance/async-performance.md
+  - SignalR:
+      - Hub Design: signalr/hub-design.md
+      - Scaling: signalr/scaling.md
+  - gRPC:
+      - Service Design: grpc/service-design.md
+      - Interceptors: grpc/interceptors.md
+  - Minimal APIs:
+      - Endpoint Design: minimal-apis/endpoint-design.md
+  - API Design:
+      - REST Best Practices: api-design/rest-best-practices.md
+      - Pagination ve Filtering: api-design/pagination-filtering.md
+  - HttpClient ve Refit:
+      - Typed Clients: httpclient-refit/typed-clients.md
+  - GraphQL:
+      - HotChocolate Kurulum ve Query: graphql/hotchocolate-setup.md
+      - Subscription ve Filtering: graphql/subscription-filtering.md
+  - Elasticsearch:
+      - NEST Client: elasticsearch/nest-client.md
+  - Identity ve OAuth:
+      - OpenID Connect ve Token Yönetimi: identity-oauth/openid-connect.md
+  - Database Design:
+      - Indexing ve Query Optimization: database-design/indexing-query-optimization.md
+      - Migration Stratejileri: database-design/migration-strategies.md
+  - Feature Management:
+      - Feature Flags ve Gradual Rollout: feature-management/feature-flags.md
+  - Multi-Tenancy:
+      - Tenant Isolation ve Data Separation: multi-tenancy/tenant-isolation.md
 
 extra:
   generator: false
