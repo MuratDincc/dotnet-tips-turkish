@@ -74,6 +74,8 @@ nav:
       - Target-Typed New Expressions: csharp/target-typed-new.md
       - Safe Casting with `as`: csharp/safe-casting.md
       - String Interpolation: csharp/string-interpolation.md
+      - Global Using Directives: csharp/global-using.md
+      - File-Scoped Namespaces: csharp/file-scoped-namespace.md
   - .NET & ASP.NET:
       - Error Handling: dotnet/error-handling.md
       - Minimal APIs: dotnet/minimal-apis.md
